@@ -1,6 +1,6 @@
 # Agrupamento Socioeconômico de Municípios Brasileiros (IDHM 2010)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Gpzmq8Qu_U-lh3RbEMPaAK6waBFsfvqr/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1doC4r3Ke8UNkRfjJhE7rXYpKOVH3MmCp?authuser=2#scrollTo=191c4878)
 
 Este projeto aplica técnicas de Aprendizado de Máquina Não Supervisionado (Clusterização) para identificar e agrupar os municípios brasileiros com base em similaridades socioeconômicas, utilizando dados do Atlas do Desenvolvimento Humano no Brasil (2013).
 
